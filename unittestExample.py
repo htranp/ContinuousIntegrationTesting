@@ -4,7 +4,7 @@
 # File Name:	unittestExample.py
 # Author:		Chadd Williams
 # Date:			10/20/2014
-# Class:		CS 360 1
+# Class:		CS 360 
 # Assignment:	Lecture Examples
 # Purpose:		Demonstrate unit tests
 ################################
